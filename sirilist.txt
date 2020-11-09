@@ -1,4 +1,5 @@
-Company newsOne
+Company news
+One
 Two
 Three
 Four
