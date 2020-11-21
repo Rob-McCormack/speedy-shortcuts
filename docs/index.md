@@ -1,3 +1,8 @@
+---
+layout: page
+title: Speedy Shortcuts
+---
+
 ## Welcome to Speedy Shortcuts
 > Siri Shortcut examples
 
