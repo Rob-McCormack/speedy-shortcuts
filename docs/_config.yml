@@ -1,2 +1,5 @@
 theme: jekyll-theme-slate
 title: "Speedy Shortcuts"
+title_separator          : "-"
+name                     : &name "Your Name"
+description              : &description "personal description"
