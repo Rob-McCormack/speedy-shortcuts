@@ -1,7 +1,8 @@
 ---
-layout: "page"
-title: Speedy Shortcuts
+layout: post
+title: Blogging Like a Hacker
 ---
+
 
 ## Welcome to Speedy Shortcuts
 > Siri Shortcut examples
